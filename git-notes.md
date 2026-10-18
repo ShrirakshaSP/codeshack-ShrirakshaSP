@@ -93,3 +93,19 @@ git pull downloads and integrates updates.
 git add stages changes.
 git commit saves changes locally.
 git push uploads commits to GitHub.
+
+Example Daily Git Workflow
+Check the working tree:
+git status
+Review your changes:
+git diff
+Stage a file:
+git add README.md
+Save your changes:
+git commit -m "Update handbook introduction"
+Upload commits to GitHub:
+git push
+View the commit history:
+git log --oneline
+Why Git Is Useful
+Git helps developers track project history, work on separate features, review changes, and collaborate without losing previous versions of their work.
