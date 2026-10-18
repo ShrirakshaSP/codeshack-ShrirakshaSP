@@ -32,3 +32,10 @@ Stage changes using git add.
 Commit using git commit.
 Push using git push.
 Open a pull request on GitHub.
+
+## Benefits of Feature Branches
+
+- Developers can work independently.
+- Changes can be reviewed before merging.
+- The main branch remains protected from unfinished work.
+- Multiple features can be developed simultaneously.
